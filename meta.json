@@ -1,0 +1,23 @@
+{
+  "repo": "recmaster-suite-2026",
+  "product": "RecMaster Suite 2026",
+  "kind": "video",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "video-editing",
+  "topics": [
+    "recmaster-suite",
+    "recmaster-windows",
+    "video-editing-desktop",
+    "how-to-install-recmaster",
+    "recmaster-suite-desktop-package",
+    "recmaster-workspace",
+    "recmaster-2026",
+    "recmaster-suite-pro-tools",
+    "recmaster-suite",
+    "zentool-recmaster"
+  ],
+  "site": "zentool.art"
+}
